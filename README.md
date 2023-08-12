@@ -1,4 +1,4 @@
-# Projetos criados na AMADOK - Escola de Tecnologia para Mulheres na Amazônia
+# Projetos AMADOK - Escola de Tecnologia para Mulheres na Amazônia
 
 ### Conteúdo do curso
 
